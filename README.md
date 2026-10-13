@@ -1,21 +1,20 @@
-# منصة ويب متعددة الأدوار والصلاحيات
-**Multi-Role Business Web Application Platform** · التصنيف: ويب / تطبيق
+# Multi-Role and Permission Web Platform
+**Multi-Role Business Web Application Platform** · Category: Web / App
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
-> Private client work — the source code is not public.
+> This project is for a specific company/client, and the source code is not public.
 
-## نبذة عن المشروع
-منصة متعددة الأدوار (مدير، موظف، عميل) بنسبة تشغيل 99.8%.
+## Project Overview
+Multi-role platform (manager, employee, client) with 99.8% uptime.
 
-## أبرز النقاط
-- Next.js App Router SSR/ISR لـ SEO
+## Highlights
+- Next.js App Router SSR/ISR for SEO
 - AWS ECS Fargate + RDS + ElastiCache + CloudFront
-- تنبيهات Slack + Rollback تلقائي
+- Slack alerts + automatic rollback
 
-## الدور
-مطوّر ويب/تطبيقات: بناء تطبيق الويب من الواجهة حتى الخدمات الخلفية والتكاملات.
+## Role
+Web/Application Developer: built the web application end-to-end, from the frontend through backend services and integrations.
 
-## التقنيات المستخدمة
+## Technologies Used
 Next.js, TypeScript, ASP.NET Core, PostgreSQL, Redis, Docker, AWS, TanStack Query
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

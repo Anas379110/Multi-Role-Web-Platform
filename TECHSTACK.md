@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — منصة ويب متعددة الأدوار والصلاحيات
+# 🛠️ Technologies Used — Multi-Role and Permission Web Platform
 
 - Next.js
 - TypeScript
